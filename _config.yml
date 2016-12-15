@@ -1,10 +1,10 @@
 # Site settings site.title
-title: Chào mừng bạn đến với Công ty TNHH Kho vận Danko
+title: CÔNG TY TNHH XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI TỔNG HỢP SAKAERU VIỆT NAM
 url: "https://minh-vu.github.io"   # domain-name 
-baseurl: "/danko"                      # repo-name 
+baseurl: "/sakaeru"                      # repo-name 
 description: "Vận chuyển nội địa, quốc tế, hải quan, trucking container"
 
-copyright_name: Danko #footer
+copyright_name: SAKAERU #footer
 header-img: img/home-bg.jpg
 email: nguyencongvu@gmail.com
 author: "Vu, Nguyen"
@@ -29,11 +29,11 @@ google_plus_id:  "101600677672081932719"
 google_form: "https://goo.gl/forms/UNBSCvJQMnKi3WRZ2" # POPUP contact-form 
 
 #footer contact vcard --> EDIT 
-contact_name: "Danko Logistics (Vietnam) Co., Ltd.- Ho Chi Minh City Branch" 
+contact_name: "CÔNG TY TNHH XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI TỔNG HỢP SAKAERU VIỆT NAM" 
 contact_call_to: "+84937980003"
-contact_phone: "(+84-8) 3811 4033"
-contact_fax: "(+84-8) 3811 4037"
-contact_address: "Room 6A, CT-IN Building, 435 Hoang Van Thu Str., Ward 4, Tan Binh Dist."
+contact_phone: "(04) 6 653 2688"
+contact_fax: ""
+contact_address: "Tầng 8, số 106 Tôn Đức Thắng, Phường Quốc Tử Giám, quận Đống Đa"
 contact_city: "TP.Hồ Chí Minh"
 contact_country: "Vietnam"
 
